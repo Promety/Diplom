@@ -1,0 +1,2 @@
+GRANT SELECT, UPDATE, INSERT, DELETE ON [DisplayCar] TO Inspector;
+GRANT SELECT, UPDATE, INSERT, DELETE ON [DisplayOffender] TO Inspector;

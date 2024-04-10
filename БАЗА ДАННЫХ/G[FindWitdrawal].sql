@@ -1,0 +1,1 @@
+GRANT exec ON [FindWitdrawal] TO Inspector;
